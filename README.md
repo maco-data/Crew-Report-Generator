@@ -36,4 +36,10 @@ A small tool to automate the extraction of a crew duty report. The information i
 
 ### DISCLAIMER: I UPLOADED THE FILE I GOT FROM MY PREVIOUS COMPANY, DELETED SENSITIVE DATA AND MODIFIED IT. IT IS OBVIOUS WHICH COMPANY IT WAS, BUT I BELIEVE AS THIS IS PAST DATA IT CANNOT BE USE FOR HARM IN ANY POSSIBLE WAY.!
 
+Vizualization of the data
+
+![Screen Shot 2021-10-22 at 19 02 07](https://user-images.githubusercontent.com/85826647/138496050-137e171d-09fa-47a9-8948-d5f741764bf0.png)
+
+The link to the dynamic dashboard is the following: https://tabsoft.co/3vJjP3e 
+
 ![banana_airline](https://user-images.githubusercontent.com/85826647/136093439-53e4595d-1497-4b5c-befd-801a836bf1f9.png)
